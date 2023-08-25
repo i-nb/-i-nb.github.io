@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: "Montserrat", sans-serif;
+}
+#logo {
+	font-weight: 900;
+	font-size: 300%;
+	margin-top: 2%;
+	margin-left: 1.9%;
+}
+#socials_div {
+	width: 26% ;
+	height: 260%;
+	box-shadow: 4px 4px 11px 1px rgba(133, 133, 133, 0.14);
+	border-radius: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5%;
+}
+.socials {
+	font-weight: 700;
+	font-size: 300%;
+	text-align: center;
+	margin-top: 2%;
+}
+.icons {
+	display: flex;
+  	justify-content: center;
+	font-size: 1000%;
+	margin-top: 3%;
+}
+#special {
+	margin-top: 0%;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 260%;
+}
+#under {
+	text-align: center;
+	font-size: 170%;
+	font-weight: 600;
+	margin-top: 15%;
+	margin-bottom: 10%;
+}
+span {
+	font-weight: 900;
+}
